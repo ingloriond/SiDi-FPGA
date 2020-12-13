@@ -1,0 +1,20 @@
+[ARC]
+RBF=JTCPS1
+MOD=0
+NAME=GANBARE
+DEFAULT=0xFFFFFF00
+CONF="O9,Coin Setup,10 Yen,100 Yen"
+CONF="OAC,Change Setup,11,12,No change,5,6,7,8,10"
+CONF="OF,Payout Setup,Payout Mode,Credit Mode"
+CONF="OGI,Payout Rate Setup,85%,90%,55%,60%,65%,70%,75%,80%"
+CONF="OJ,Unknown,On,Off"
+CONF="OK,Unknown,On,Off"
+CONF="OL,Unknown,On,Off"
+CONF="OM,Unknown,On,Off"
+CONF="ON,Unknown,On,Off"
+CONF="OQ,Unknown,On,Off"
+CONF="OR,Unknown,On,Off"
+CONF="OS,Unknown,On,Off"
+CONF="OT,Unknown,On,Off"
+CONF="OU,Clear RAM,Yes,No"
+CONF="OV,Tes Mode Display,On,Off"

@@ -1,0 +1,8 @@
+[ARC]
+RBF=JTCPS1
+MOD=0
+NAME=SFZCH
+DEFAULT=0xFFFFFF00
+CONF="O8F,Unknown,On,Off"
+CONF="OGN,Unknown,On,Off"
+CONF="OOV,Unknown,On,Off"

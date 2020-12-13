@@ -1,0 +1,8 @@
+[ARC]
+RBF=GALAXIAN
+MOD=10
+NAME=ORBITRON
+DEFAULT=0xFFFF5F00
+CONF="OG,Bonus Life After,10000,20000"
+CONF="OI,Lives,3,5"
+CONF="OJ,Cabinet,Upright,Cocktail"

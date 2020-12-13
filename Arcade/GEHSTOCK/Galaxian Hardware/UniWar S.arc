@@ -1,0 +1,10 @@
+[ARC]
+RBF=GALAXIAN
+MOD=12
+NAME=UNIWARS
+DEFAULT=0xFF1F1F00
+CONF="O7,Service,Off,On"
+CONF="O6,Test,Off,On"
+CONF="O5,Cabinet,Upright,Cocktail"
+CONF="OGH,Bonus Life After,None,4000,5000,7000"
+CONF="OI,Lives,3,5"

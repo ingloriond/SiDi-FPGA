@@ -1,0 +1,25 @@
+[ARC]
+RBF=JTCPS1
+MOD=0
+NAME=WILLOW
+DEFAULT=0xFFFFFF00
+CONF="O8D,Free Play,On,Off"
+CONF="OE,Cabinet,Upright 2 Players,Upright 1 Player"
+CONF="OF,Max power,On,Off"
+CONF="OEF,Cabinet,Cocktail,Upright 2 Players,Upright 1 Player"
+CONF="OHK,Slow Motion,17 Frames,16 Frames,15 Frames,14 Frames,13 Frames,12 Frames,11 Frames,10 Frames,9 Frames,8 Frames,7 Frames,6 Frames,5 Frames,4 Frames,3 Frames,2 Frames"
+CONF="OGI,Difficulty,8 (Hardest),7,6,5,1 (Easiest),2,3,4 (Normal)"
+CONF="OJK,Nando Speed,Very Fast,Fast,Slow,Normal"
+CONF="OLN,Starting Level,Level 6,Level 5,Level 4,Level 3,Level 2,Level 1"
+CONF="ON,Stage Continue,On,Off"
+CONF="OO,Turbo Mode,On,Off"
+CONF="OP,Freeze,On,Off"
+CONF="OOP,Lives,4,3,1,2"
+CONF="OQ,Slow Motion,On,Off"
+CONF="OR,Invulnerability,On,Off"
+CONF="OQR,Health,2,5,4,3"
+CONF="OS,Flip Screen,On,Off"
+CONF="OT,Demo Sounds,Off,On"
+CONF="OT,Debug Info,Yes,No"
+CONF="OU,Continue,No,Yes"
+CONF="OV,Game Mode,Test,Game"

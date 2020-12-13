@@ -1,0 +1,8 @@
+[ARC]
+RBF=GALAXIAN
+MOD=14
+NAME=WAROFBUG
+DEFAULT=0xFFDF3FF2
+CONF="O5,Cabinet,Upright,Cocktail"
+CONF="OGH,Lives,1,2,3,4"
+CONF="OJ,Bonus Life After,50k,75k"

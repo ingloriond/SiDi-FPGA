@@ -1,0 +1,20 @@
+[ARC]
+RBF=JTCPS1
+MOD=0
+NAME=3WONDERS
+DEFAULT=0xFFFFFF00
+CONF="O8A,Coin A,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit"
+CONF="OBD,Coin B,4 Coins/1 Credit,3 Coins/1 Credit,2 Coins/1 Credit,1 Coin/6 Credits,1 Coin/4 Credits,1 Coin/3 Credits,1 Coin/2 Credits,1 Coin/1 Credit"
+CONF="OE,2 to Start, 1 to Cont.,On,Off"
+CONF="OE,Free Play,On,Off"
+CONF="OF,Freeze,On,Off"
+CONF="OGH,Lives (M.W.),5,3,2,1"
+CONF="OIJ,Difficulty (M.W.),Hardest,Hard,Normal,Easy"
+CONF="OKL,Lives (Ch.),5,3,2,1"
+CONF="OMN,Difficulty (Ch.),Hardest,Hard,Normal,Easy"
+CONF="OOP,Lives (D.P.),5,3,2,1"
+CONF="OQR,Difficulty (D.P.),Hardest,Hard,Normal,Easy"
+CONF="OS,Flip Screen,On,Off"
+CONF="OT,Demo Sounds,On,Off"
+CONF="OU,Continue,Yes,No"
+CONF="OV,Game Mode,Test,Game"

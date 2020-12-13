@@ -1,0 +1,7 @@
+[ARC]
+RBF=GALAXIAN
+MOD=3
+NAME=BLKHOLE
+DEFAULT=0xFFFF1F02
+CONF="OG,Bonus Life After,5000,10000"
+CONF="OH,Cabinet,Cocktail,Upright"

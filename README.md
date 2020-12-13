@@ -1,4 +1,4 @@
-# SiDi-FPGA from manuferhi | [Manhuferhi Wiki](https://github.com/ManuFerHi/SiDi-FPGA/wiki)
+# SiDi-FPGA from manuferhi | [ManuFerhi Wiki](https://github.com/ManuFerHi/SiDi-FPGA/wiki)
 
 ![Sidi rev1](https://user-images.githubusercontent.com/31018768/102022306-393ad100-3d86-11eb-82ee-ed5e7e499119.jpg)
 

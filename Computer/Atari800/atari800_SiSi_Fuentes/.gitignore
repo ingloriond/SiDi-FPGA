@@ -1,0 +1,7 @@
+db/
+incremental_db/
+out/
+*~
+*.bak
+*.BAK
+

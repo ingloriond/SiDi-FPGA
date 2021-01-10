@@ -1,0 +1,15 @@
+PLL_Name	pll_reconfig:reconfig_pll|altpll:altpll_component|pll_reconfig_altpll:auto_generated|pll1
+PLLJITTER	31
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	switch_pal_ntsc:pll_switcher|pll_downstream_pal:generic_pll2|altpll:altpll_component|pll_downstream_pal_altpll:auto_generated|pll1
+PLLJITTER	NA
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	switch_pal_ntsc:pll_switcher|pll_pal:generic_pll|altpll:altpll_component|pll_pal_altpll:auto_generated|pll1
+PLLJITTER	NA
+PLLSPEmax	84
+PLLSPEmin	-53
+

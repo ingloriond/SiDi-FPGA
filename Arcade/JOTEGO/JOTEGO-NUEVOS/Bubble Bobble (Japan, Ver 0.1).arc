@@ -2,9 +2,9 @@
 RBF=JTBUBL
 MOD=0
 NAME=BUBLBOBL
-DEFAULT=0xFFFF0000
+DEFAULT=0xFDFF0000
 CONF="OH,Flip Screen,On,Off"
-CONF="OG,Mode,Test /Pause,Test,Game, English,Game, Japanese"
+CONF="OIJ,Mode,Test /Pause,Test,Game, English,Game, Japanese"
 CONF="OJ,Demo Sounds,Off,On"
 CONF="OKL,Coin A,2/3,2/1,1/2,1/1"
 CONF="OMN,Coin B,2/3,2/1,1/2,1/1"

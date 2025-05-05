@@ -1,5 +1,0 @@
-[ARC]
-RBF=MCR1
-MOD=0
-NAME=KICKMAN
-CONF="O7,Music,On,Off"

@@ -1,9 +1,0 @@
-[ARC]
-RBF=GALAXIAN
-MOD=6
-NAME=DEVILFSG
-DEFAULT=0xFFFF5F00
-CONF="OG,Bonus Life After,10000,15000"
-CONF="OH,Difficulty,Easy,Hard"
-CONF="OI,Lives,4,5"
-CONF="OJ,Cabinet,Upright,Cocktail"

@@ -1,2 +1,0 @@
-[ARC]
-NAME=TURBOTAG

@@ -1,4 +1,0 @@
-[ARC]
-RBF=GNG
-MOD=0
-NAME=GNG
